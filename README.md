@@ -12,12 +12,19 @@ Ao abrir a extensão com apenas um clique, é possível visualizar o próximo jo
 
 ## Preview Interface
 <p align="center">
-  <img src="./Imagens/tela_inicial_prox_partida.png" width="30%" />
-  <br/> Próxima partida.
-  <img src="./Imagens/campeonato_brasileiro_tabela.png" width="30%" />
-  <br/> Campeonato brasileiro.
-  <img src="./Imagens/libertadores_grupos.png" width="30%" />
-  <br/> Libertadores.
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Imagens/tela_inicial_prox_partida.png" width="250"/>
+    </td>
+    <td align="center">
+      <img src="./Imagens/campeonato_brasileiro_tabela.png" width="250"/>
+    </td>
+    <td align="center">
+      <img src="./Imagens/libertadores_grupos.png" width="250"/>
+    </td>
+  </tr>
+</table>
 </p>
 
 ## Como funciona?
