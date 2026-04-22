@@ -19,13 +19,7 @@ Ao abrir a extensão com apenas um clique, é possível visualizar o próximo jo
 <table>
   <tr>
     <td align="center">
-      <img src="./Imagens/tela_inicial_prox_partida.png" width="260"/>
-    </td>
-    <td align="center">
-      <img src="./Imagens/campeonato_brasileiro_tabela.png" width="260"/>
-    </td>
-    <td align="center">
-      <img src="./Imagens/libertadores_grupos.png" width="260"/>
+      <img src="./Imagens/interface.png"/>
     </td>
   </tr>
 </table>
