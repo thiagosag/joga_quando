@@ -12,11 +12,11 @@ Ao abrir a extensão com apenas um clique, é possível visualizar o próximo jo
 
 ## Preview Interface
 <p align="center">
-  <img src="./imagens/tela_inicial_prox_partida.png" width="30%" />
+  <img src="./Imagens/tela_inicial_prox_partida.png" width="30%" />
   <br/> Próxima partida.
-  <img src="./imagens/campeonato_brasileiro_tabela.png" width="30%" />
+  <img src="./Imagens/campeonato_brasileiro_tabela.png" width="30%" />
   <br/> Campeonato brasileiro.
-  <img src="./imagens/libertadores_grupos.png" width="30%" />
+  <img src="./Imagens/libertadores_grupos.png" width="30%" />
   <br/> Libertadores.
 </p>
 
