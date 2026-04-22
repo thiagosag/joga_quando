@@ -1,8 +1,24 @@
 # Joga Quando?
 A extensão de navegador “Joga Quando?” É uma alternativa eficiente e eficaz para visualizar os próximos jogos do clube Corinthians Paulista. Também é possível ver posicionamentos em tabelas de dois campeonatos diferentes (Brasileirão e Libertadores). Ideal para quem busca velocidade em informações básicas.
 
+## Tecnologias
+- JavaScript
+- HTML5
+- CSS3
+- JSON
+
 ## Funcionalidades
 Ao abrir a extensão com apenas um clique, é possível visualizar o próximo jogo do seu time do coração. Na parte inferior, estão disponíveis consultas rápidas, como posicionamento na tabela do Campeonato Brasileiro e disputa de grupos pela Libertadores.
+
+## Preview Interface
+<p align="center">
+  <img src="./imagens/tela_inicial_prox_partida.png" width="30%" />
+  <br/> Próxima partida.
+  <img src="./imagens/campeonato_brasileiro_tabela.png" width="30%" />
+  <br/> Campeonato brasileiro.
+  <img src="./imagens/libertadores_grupos.png" width="30%" />
+  <br/> Libertadores.
+</p>
 
 ## Como funciona?
 Inicialmente, o projeto seria feito por meio do consumo de APIs, mas, após um estudo de viabilidade, o projeto foi adaptado a uma alternativa gratuita, utilizando widgets disponibilizados pela API Futebol.
