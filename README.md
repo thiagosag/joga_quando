@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN4N2oxb2g2a2dzb3huaDRkbnFyOHgwb3FuZDZjY2pnNDJnY28wdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/S9pBWjkZxhWdIDlevA/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN4N2oxb2g2a2dzb3huaDRkbnFyOHgwb3FuZDZjY2pnNDJnY28wdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/S9pBWjkZxhWdIDlevA/giphy.gif" width="200"/>
 </p>
 
 # Joga Quando?
