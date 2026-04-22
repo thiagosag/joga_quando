@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHBzcHpnZGF2Y2F3ZDJ0cmRpN2FhbzM3NGljYjNmMHYxMGhqeG5pMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2HjMUnu1HhgqbdJc3C/giphy.gif" width="400"/>
+</p>
+
 # Joga Quando?
 A extensão de navegador “Joga Quando?” É uma alternativa eficiente e eficaz para visualizar os próximos jogos do clube Corinthians Paulista. Também é possível ver posicionamentos em tabelas de dois campeonatos diferentes (Brasileirão e Libertadores). Ideal para quem busca velocidade em informações básicas.
 
@@ -15,13 +19,13 @@ Ao abrir a extensão com apenas um clique, é possível visualizar o próximo jo
 <table>
   <tr>
     <td align="center">
-      <img src="./Imagens/tela_inicial_prox_partida.png" width="250"/>
+      <img src="./Imagens/tela_inicial_prox_partida.png" width="260"/>
     </td>
     <td align="center">
-      <img src="./Imagens/campeonato_brasileiro_tabela.png" width="250"/>
+      <img src="./Imagens/campeonato_brasileiro_tabela.png" width="260"/>
     </td>
     <td align="center">
-      <img src="./Imagens/libertadores_grupos.png" width="250"/>
+      <img src="./Imagens/libertadores_grupos.png" width="260"/>
     </td>
   </tr>
 </table>
