@@ -7,9 +7,11 @@ html{
   color: #000000;
   transition: 1s;
 }
+
 .container img{
     margin-bottom: 6px;
 }
+
 .container {
     width: 320px;
     height: 580px;
@@ -51,6 +53,7 @@ html{
     color: #fffffffb;
     margin: 10px;
 }
+
 .mensagem {
     width: 95%;
     background-color: #bebebe48;

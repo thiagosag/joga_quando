@@ -13,7 +13,6 @@ function renderWidget(src, height = 270) {
       style="border:2px solid #717171ff; border-radius:8px;"
       loading="lazy"
       referrerpolicy="unsafe-url"
-      sandbox="allow-scripts allow-forms allow-popups allow-top-navigation-by-user-activation allow-popups-to-escape-sandbox">
     </iframe>
   `;
 }
